@@ -1,0 +1,2 @@
+# AdMaxim-Conversion-Landing-Page-Pixel
+Use the AdMaxim Pixel template to easily track your campaign's performance, set up customised conversions and to build custom audiences for re-targeting. Landing page views let you know how many times people loaded your website, after clicking your ad. You can compare landing page views to link clicks to understand how many people clicked on your ad but left before your website loaded. To report on landing page views, you must have created a AdMaxim Landing Page Pixel.
