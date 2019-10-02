@@ -1,0 +1,6 @@
+name: "AdMaxim Smart Pixel",
+homepage: "http://www.admaxim.com/",
+documentation: "https://docs.google.com/document/d/1rKtvqtRz04eJV5Qia0drcQi2sOI3AXsMtJpQtLf80B4/edit?usp=sharing",
+versions:
+ - sha: 19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7
+ changeNotes: Initial release 9.
