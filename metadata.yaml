@@ -3,4 +3,4 @@ homepage: "http://www.admaxim.com/"
 documentation: "https://docs.google.com/document/d/1rKtvqtRz04eJV5Qia0drcQi2sOI3AXsMtJpQtLf80B4/edit?usp=sharing"
 versions:
   - sha: 1d00ce63deb24c528ec456fbacbea6406976baf9
-    changeNotes: Initial release 9.
+    changeNotes: Initial release 9
